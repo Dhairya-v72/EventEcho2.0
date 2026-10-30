@@ -1,0 +1,13 @@
+Metric,Value
+Total Records,3024
+Total Columns,12
+Unique Headlines,50
+Missing Headlines,148
+Missing Sentiment,171
+Missing Index Change,161
+Missing News URLs,153
+Exact Duplicate Rows,0
+Unique Market Events,20
+Date Range,2025-02-01 to 2025-08-14
+Index Change IQR Outliers,0
+Trading Volume IQR Outliers,0

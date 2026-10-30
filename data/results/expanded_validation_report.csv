@@ -1,0 +1,9 @@
+check,passed
+52 eligible events analysed,True
+52 market models fitted,True
+1092 abnormal return rows,True
+21 event-time observations,True
+52 volatility records,True
+No duplicate event IDs,True
+No missing CAR values,True
+No missing volatility values,True

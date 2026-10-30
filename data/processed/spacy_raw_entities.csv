@@ -1,0 +1,23 @@
+Headline,Entity,Entity_Label
+Nikkei 225 index benefits from a weaker yen,225,CARDINAL
+Aerospace and Defense sector sees rally amid geopolitical tensions,Defense,ORG
+Market braces for a major policy announcement from the EU,EU,ORG
+Major technology firm acquires a smaller rival in a multi-billion dollar deal,multi-billion dollar,MONEY
+Manufacturing PMI data signals economic expansion,PMI,ORG
+ASX 200 gains on strong export performance,200,CARDINAL
+Utilities sector remains stable during market fluctuations,Utilities,ORG
+Consumer Discretionary stocks outperform as spending increases,Consumer Discretionary,ORG
+Quarterly report shows surprising losses for retail giants,Quarterly,DATE
+China's Shanghai Composite falls after new trade restrictions,China,GPE
+China's Shanghai Composite falls after new trade restrictions,Shanghai Composite,ORG
+Healthcare stocks gain on robust demand and strong outlook,Healthcare,ORG
+Federal Reserve Chairman's speech causes market volatility,Federal Reserve,ORG
+Media and Entertainment companies report a surge in streaming revenue,Media,ORG
+Central Bank Governor signals potential shift in policy,Central Bank,ORG
+UK's FTSE 100 sees a boost from favorable trade data,UK,GPE
+UK's FTSE 100 sees a boost from favorable trade data,FTSE,ORG
+UK's FTSE 100 sees a boost from favorable trade data,100,CARDINAL
+Merger talks between two banks fall through,two,CARDINAL
+Crude oil prices drop to a multi-year low,multi-year,DATE
+Central Bank's dovish tone hints at future rate cuts,Central Bank's,ORG
+Dow Jones plunges as market fears recession,Dow Jones,ORG

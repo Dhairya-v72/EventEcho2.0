@@ -1,0 +1,51 @@
+Headline,BERTopic_ID,BERTopic_Name,Topic_Probability
+Nikkei 225 index benefits from a weaker yen,1,1_report_earnings_retail_manufacturing,1.0
+Government subsidy program gives a lift to the agriculture sector,-1,-1_central_government_bank_banks,0.0
+New housing data release shows a slowdown in market activity,0,0_market_as_investors_shows,1.0
+Massive stock buyback program announced by a consumer goods company,2,2_tech_massive_major_stock,1.0
+Government spending bill is expected to stimulate the economy,-1,-1_central_government_bank_banks,0.0
+Central bank maintains status quo on interest rates,-1,-1_central_government_bank_banks,0.0
+Tech Giant's New Product Launch Sparks Sector-Wide Gains,2,2_tech_massive_major_stock,0.9985219772346796
+A massive data breach sends a tech company's stock tumbling,2,2_tech_massive_major_stock,1.0
+Market sentiment turns positive on vaccine trial results,3,3_consumer_stocks_on_confidence,1.0
+"Global trade talks collapse, causing market turmoil",5,5_geopolitical_trade_aerospace_ceasefire,1.0
+Aerospace and Defense sector sees rally amid geopolitical tensions,5,5_geopolitical_trade_aerospace_ceasefire,1.0
+Supply chain issues impact manufacturing sector earnings,1,1_report_earnings_retail_manufacturing,0.861586527438286
+Market braces for a major policy announcement from the EU,0,0_market_as_investors_shows,0.7558177081029782
+New IPO for a popular software firm is oversubscribed,3,3_consumer_stocks_on_confidence,0.7997736541696329
+Major technology firm acquires a smaller rival in a multi-billion dollar deal,2,2_tech_massive_major_stock,1.0
+Manufacturing PMI data signals economic expansion,1,1_report_earnings_retail_manufacturing,1.0
+Financial services stocks rally on strong profit margins,4,4_oil_financial_energy_stocks,0.7759884049624708
+Mining company stock surges on commodity price boom,4,4_oil_financial_energy_stocks,1.0
+Financial sector bracing for new capital requirements,4,4_oil_financial_energy_stocks,0.7759884049624708
+ASX 200 gains on strong export performance,1,1_report_earnings_retail_manufacturing,1.0
+Bond yields tumble as investors seek safe havens,0,0_market_as_investors_shows,1.0
+Utilities sector remains stable during market fluctuations,0,0_market_as_investors_shows,1.0
+Consumer Discretionary stocks outperform as spending increases,3,3_consumer_stocks_on_confidence,1.0
+Quarterly report shows surprising losses for retail giants,1,1_report_earnings_retail_manufacturing,0.861586527438286
+Major oil spill sends energy stocks plummeting,4,4_oil_financial_energy_stocks,1.0
+China's Shanghai Composite falls after new trade restrictions,5,5_geopolitical_trade_aerospace_ceasefire,1.0
+Healthcare stocks gain on robust demand and strong outlook,3,3_consumer_stocks_on_confidence,0.8587341304692759
+Retail sales report surpasses all forecasts,1,1_report_earnings_retail_manufacturing,0.7872996191916611
+Federal Reserve Chairman's speech causes market volatility,0,0_market_as_investors_shows,0.8433169799276611
+Gold prices surge as investors flee riskier assets,0,0_market_as_investors_shows,1.0
+Real Estate sector shows signs of overheating as interest rates fall,0,0_market_as_investors_shows,1.0
+Semiconductor shortages weigh heavily on tech sector profits,2,2_tech_massive_major_stock,0.9985219772346796
+Geopolitical ceasefire prompts a broad market recovery,5,5_geopolitical_trade_aerospace_ceasefire,1.0
+Media and Entertainment companies report a surge in streaming revenue,2,2_tech_massive_major_stock,0.8392061083795377
+Central Bank Governor signals potential shift in policy,-1,-1_central_government_bank_banks,0.0
+Banking stocks dip after a major scandal is revealed,2,2_tech_massive_major_stock,1.0
+UK's FTSE 100 sees a boost from favorable trade data,1,1_report_earnings_retail_manufacturing,1.0
+E-commerce earnings report beats all analyst expectations,1,1_report_earnings_retail_manufacturing,0.861586527438286
+Unexpected rise in unemployment fuels market pessimism,0,0_market_as_investors_shows,1.0
+Merger talks between two banks fall through,-1,-1_central_government_bank_banks,0.0
+Automotive industry faces headwinds from rising material costs,2,2_tech_massive_major_stock,0.9985219772346796
+Energy company's dividend hike excites shareholders,4,4_oil_financial_energy_stocks,1.0
+Government policy shift boosts renewable energy sector,-1,-1_central_government_bank_banks,0.0
+Crude oil prices drop to a multi-year low,4,4_oil_financial_energy_stocks,1.0
+Pharmaceutical company's drug approval drives stock upward,3,3_consumer_stocks_on_confidence,1.0
+Central Bank's dovish tone hints at future rate cuts,-1,-1_central_government_bank_banks,0.0
+Dow Jones plunges as market fears recession,0,0_market_as_investors_shows,1.0
+New regulations on cryptocurrencies cause a market dip,0,0_market_as_investors_shows,0.9303444863345752
+Record-high inflation data rattles investors,0,0_market_as_investors_shows,1.0
+Consumer confidence index reaches a decade high,3,3_consumer_stocks_on_confidence,1.0

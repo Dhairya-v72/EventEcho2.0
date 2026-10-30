@@ -1,0 +1,9 @@
+event_id,company,event_date,event_category,headline,source,source_url,reaction_date,available_estimation_days,announcement_timing,verification_status
+EV001,AAPL,2025-01-30,Quarterly Earnings,Apple reports first quarter results,Apple IR,https://www.apple.com/newsroom/2025/01/apple-reports-first-quarter-results/,2025-01-31,100,After market close,Official source verified
+EV002,AAPL,2025-05-01,Quarterly Earnings,Apple reports second quarter results,Apple IR,https://www.apple.com/newsroom/2025/05/apple-reports-second-quarter-results/,2025-05-02,100,After market close,Official source verified
+EV003,AAPL,2025-07-31,Quarterly Earnings,Apple reports third quarter results,Apple IR,https://www.apple.com/in/newsroom/2025/07/apple-reports-third-quarter-results/,2025-08-01,100,After market close,Official source verified
+EV004,MSFT,2025-01-29,Quarterly Earnings,Microsoft FY2025 Q2 earnings,Microsoft IR,https://www.microsoft.com/en-us/investor/earnings/fy-2025-q2/press-release-webcast,2025-01-30,100,After market close,Official source verified
+EV005,MSFT,2025-04-30,Quarterly Earnings,Microsoft FY2025 Q3 earnings,Microsoft IR,https://www.microsoft.com/en-us/investor/earnings/fy-2025-q3/press-release-webcast,2025-05-01,100,After market close,Official source verified
+EV006,MSFT,2025-07-30,Quarterly Earnings,Microsoft FY2025 Q4 earnings,Microsoft IR,https://www.microsoft.com/en-us/investor/earnings/fy-2025-q4/press-release-webcast,2025-07-31,100,After market close,Official source verified
+EV007,TSLA,2025-04-22,Quarterly Earnings,Tesla Q1 2025 earnings,Tesla IR,https://ir.tesla.com/press-release/tesla-releases-first-quarter-2025-financial-results,2025-04-23,100,After market close,Official source verified
+EV008,TSLA,2025-07-23,Quarterly Earnings,Tesla Q2 2025 earnings,Tesla IR,https://ir.tesla.com/press-release/tesla-releases-second-quarter-2025-financial-results,2025-07-24,100,After market close,Official source verified
